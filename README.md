@@ -17,8 +17,5 @@ A robust Spring Boot application for tracking personal finances with built-in **
 - **Database:** MySQL / PostgreSQL
 - **Frontend:** HTML5, CSS3 (Bootstrap 5), JavaScript (Fetch API)
 
-## ⚙️ Setup Instructions
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Manmeetkaur2005/Personal-Finance-Dashboard.git](https://github.com/Manmeetkaur2005/Personal-Finance-Dashboard.git)
+  
